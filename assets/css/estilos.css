@@ -14,7 +14,7 @@ body {
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -29,11 +29,11 @@ body {
 
 @media (max-width: 768px) {
   #Contacto form label {
-    font-weight: 400;
+    font-weight: 500;
   }
 
   .navbar-brand{
-    width: 100px;
+    width: 150px;
   }
 
 }
